@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-// public variable declare with capital latter
 const LoginToken string = "sfmksmkf"
 
 func main() {
