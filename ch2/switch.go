@@ -15,7 +15,6 @@ func billingCost(plan string) float64 {
 	}
 }
 
-// don't touch below this line
 
 func main() {
 	plan := "basic"
