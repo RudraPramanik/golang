@@ -10,8 +10,11 @@ func billingCost(plan string) float64 {
 		return 20.0
 	case "enterprise": 
 		return 50.0
+	case "free":
+		return 0.0
 			default:
 		return 0.0
+
 	}
 }
 
