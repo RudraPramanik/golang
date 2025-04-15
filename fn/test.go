@@ -1,6 +1,6 @@
 
 package main
-import "fmt"
+import "fmt";
 
 func getMonthlyPrice(tier string) int {
 	switch tier {
